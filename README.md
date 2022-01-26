@@ -12,9 +12,17 @@ do endereço.
 
 
 ## Testando api pelo Postman 
+
+Adionando cliente
 ![Modelo](https://github.com/wilson-silva/api-cliente-cep/blob/main/adicionar.png)
+
+Listando cliente
 ![Modelo](https://github.com/wilson-silva/api-cliente-cep/blob/main/listar.png)
+
+Atualizando cliente
 ![Modelo](https://github.com/wilson-silva/api-cliente-cep/blob/main/atualizar.png)
+
+Deletando cliente
 ![Modelo](https://github.com/wilson-silva/api-cliente-cep/blob/main/deletar.png)
 
 ## Tecnologias utilizadas
@@ -29,5 +37,5 @@ do endereço.
 
 Wilson Gimenes da Silva
 
-https://github.com/wilson-silva/wilson-silva
+https://github.com/wilson-silva/api-cliente-cep
 
