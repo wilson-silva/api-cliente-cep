@@ -9,7 +9,7 @@ Este projeto foi desenvolvido no Bootcamp GFT Starter #03 disponibilizado pela D
 A Api foi criada utilizando padrões de projetos como Singleton, Strategy e Façade, exemplificando o uso das mesmas.
 Com os cruds foi possível práticar os métodos HTTP e testar com o Postman.
 Utilizando uma api de terceiro ("ViaCep") se teve um ganho de produtividade, pois ao informar o cep no adicionar 
-cliente ou atualizar cliente os dados do endereço é preenchido automáticamente.
+cliente ou atualizar cliente os dados do endereço é preenchido automaticamente.
 
 
 ## Testando api pelo Postman 
