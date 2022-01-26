@@ -5,10 +5,11 @@ Api exemplificando padrões de projeto spring
 
 ## Sobre o projeto
 
-Este projeto foi desenvolvido no Bootcamp GFT Starter #3 disponibilizado pela Digital Innovation One.
+Este projeto foi desenvolvido no Bootcamp GFT Starter #03 disponibilizado pela Digital Innovation One.
 A Api foi criada utilizando padrões de projetos como Singleton, Strategy e Façade, exemplificando o uso das mesmas.
-Foram criados vários Cruds para cadastro de cliente, e utilizando uma api de terceiro "ViaCep" para a partir do cep fazer o preenchimento automático
-do endereço.
+Com os cruds foi possível práticar os métodos HTTP e testar com o Postman.
+Utilizando uma api de terceiro ("ViaCep") se teve um ganho de produtividade, pois ao informar o cep no adicionar 
+cliente ou atualizar cliente os dados do endereço é preenchido automáticamente.
 
 
 ## Testando api pelo Postman 
